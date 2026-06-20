@@ -1,6 +1,6 @@
 # Lab 1 — Cyber Threat Intelligence Report Mapping to MITRE ATT&CK
 
-## Group Members
+## Student
 
 * Dror Sullam
 

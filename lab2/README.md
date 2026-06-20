@@ -1,6 +1,6 @@
 # Lab 2 — Anomaly Detection
 
-## Group Members
+## Student
 
 - Dror Sullam
 
