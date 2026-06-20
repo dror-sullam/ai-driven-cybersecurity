@@ -16,7 +16,3 @@ Synthetic login events dataset.
 
 - T1110 — Brute Force
 - T1078 — Valid Accounts
-
-## Status
-
-Work in progress.
