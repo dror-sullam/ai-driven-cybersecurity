@@ -5,7 +5,6 @@ Submission repository for the AI-Driven Cybersecurity course.
 ## Group Members
 
 - Dror Sullam
-- Adam Finkler
 
 ## Labs
 

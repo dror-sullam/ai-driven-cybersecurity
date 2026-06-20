@@ -3,7 +3,6 @@
 ## Group Members
 
 * Dror Sullam
-* Adam Finkler
 
 ## Source CTI Report
 
