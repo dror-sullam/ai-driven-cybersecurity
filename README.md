@@ -12,3 +12,4 @@ Coursework repository for the AI-Driven Cybersecurity course.
 - [Lab 2 — Anomaly Detection](lab2/README.md)
 - [Lab 3 — LLM Agent](lab3/README.md)
 - [Lab 4 — LLM Agent Workflow](lab4/README.md)
+- [Lab 5 — Accelerated AI Pipeline](lab5/report.md)
