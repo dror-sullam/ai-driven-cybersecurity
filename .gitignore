@@ -1,1 +1,3 @@
 .DS_Store
+.env
+lab3/.env
